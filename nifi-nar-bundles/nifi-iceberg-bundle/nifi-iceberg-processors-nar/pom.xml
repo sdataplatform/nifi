@@ -48,7 +48,7 @@
         <profile>
             <id>include-hadoop-aws</id>
             <activation>
-                <activeByDefault>false</activeByDefault>
+                <activeByDefault>true</activeByDefault>
             </activation>
             <dependencies>
                 <dependency>
